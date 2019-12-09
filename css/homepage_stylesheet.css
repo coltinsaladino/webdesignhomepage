@@ -1,0 +1,180 @@
+body{
+    background-color: black;
+}
+
+.container{
+    width: 1080px;
+    margin:0 auto;
+    padding-bottom: 125px;
+}
+
+.info{
+    font-size: 17px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    color: white;
+    margin-top: 300px;
+    font-family: 'Palanquin';
+    column-count: 2;
+    column-gap: 50px;
+    padding-bottom: 200px;
+}
+
+.navbar{
+    font-family: 'Palanquin Dark';
+    font-size: 70px;
+    margin-top: 300px;
+    margin-bottom: 250px;
+    position: relative;
+    top: 0;
+    width: 1080px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+
+li {
+  width: 50%;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+
+
+li a:hover {
+  background-color: white;
+  color: black;
+}
+
+.home_btn {
+    width: 100px;
+    float: left;
+    padding-left: 65px;
+    padding-right: 65px;
+}
+
+.thomasImg{
+    height: 775px;
+    float: right;
+    margin-top: 95px;
+}
+
+.guymanImg{
+    height: 750px;
+    float: left;
+    margin-top: 105px;
+}
+
+.logoImg{
+    width: 500px;
+    margin-left: 0px;
+    margin-top: 200px;
+}
+
+.logoBlackImg{
+    height: 125px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 85px;
+    vertical-align: -60px;
+}
+
+.iconlogoImg{
+    height: 70px;
+    position: relative;
+}
+
+.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.footer{
+    background-color: white;
+    height: 300px;
+    font-family: 'Palanquin';
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+
+h1{
+    position: relative;
+    font-family: 'Palanquin Dark';
+    font-size: 60px;
+    color: white;
+}
+
+h2{
+    font-family: 'Palanquin Dark';
+    font-size: 40px;
+    color: white;
+}
+
+.years {
+    font-family: 'Palanquin';
+}
+
+.albums{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Palanquin'
+}
+
+.AlbumCover{
+    width: 75%
+}
+
+.albumInfo{
+    color: white;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.DuoPic{
+    width: 100%;
+    margin-top: 100px;
+}
+
+.Bioinfo{
+    font-size: 17px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    color: white;
+    margin-top: 20px;
+    font-family: 'Palanquin';
+    column-count: 2;
+    column-gap: 50px;
+    padding-bottom: 200px;
+}
+
+.GalleryImg{
+    width: 50%;
+    padding: 20px;
+
+}
+
+.GalleryImg2{
+    width: 50%;
+    padding: 20px;
+}
+
+
+
+
